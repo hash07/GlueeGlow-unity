@@ -1,2 +1,3 @@
 # GlueeGlow-unity
-Well, tryin' to make a game.
+My dream work. Creating my first game with unity game engine.
+# Hope it works!
